@@ -1,0 +1,24 @@
+{bojan={denis=2}, denis={bojan=0}}
+2
+{bojan={denis=2}, cvetka={denis=2}, denis={bojan=0, cvetka=0}}
+3
+{ana={denis=1}, bojan={denis=2}, cvetka={denis=2}, denis={ana=1}}
+4
+{ana={bojan=0, denis=1}, bojan={bojan=0, denis=1}, cvetka={denis=2}, denis={ana=1}}
+5
+{ana={bojan=0, denis=1}, bojan={bojan=0, denis=1}, cvetka={denis=1}, denis={denis=1}}
+6
+{ana={ana=2, bojan=0, denis=1}, bojan={ana=2, bojan=0, denis=1}, cvetka={denis=1}, denis={denis=1}}
+7
+{ana={ana=2, bojan=0, denis=1}, bojan={ana=2, bojan=0, denis=1}, cvetka={cvetka=1, denis=1}, denis={cvetka=1, denis=1}}
+8
+{ana={ana=2, bojan=0, cvetka=2, denis=1}, bojan={ana=2, bojan=0, cvetka=2, denis=1}, cvetka={ana=2, bojan=0, cvetka=2, denis=1}, denis={ana=0, cvetka=1, denis=1}}
+9
+{ana={ana=2, bojan=0, cvetka=2, denis=1}, bojan={ana=2, bojan=0, cvetka=2, denis=1}, cvetka={ana=2, bojan=0, cvetka=2, denis=1}, denis={ana=0, cvetka=1, denis=1}}
+10
+{ana={ana=1, bojan=0, cvetka=1, denis=1}, bojan={ana=1, bojan=0, cvetka=1, denis=1}, cvetka={ana=1, bojan=0, cvetka=1, denis=1}, denis={ana=0, cvetka=1, denis=1}}
+11
+ana -> {ana -> 1, bojan -> 0, cvetka -> 1, denis -> 1}
+bojan -> {ana -> 1, bojan -> 0, cvetka -> 1, denis -> 1}
+cvetka -> {ana -> 1, bojan -> 0, cvetka -> 1, denis -> 1}
+denis -> {ana -> 0, cvetka -> 1, denis -> 1}

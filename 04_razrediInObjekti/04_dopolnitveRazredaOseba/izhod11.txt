@@ -1,0 +1,16 @@
+3
+-2
+true
+false
+this: Rok Pogacnik (M), 2003
+this.oce: Dejan Pogacnik (M), 1973
+this.oce.oce: Marjan Pogacnik (M), 1946
+this.oce.oce.oce: Jozef Pogacnik (M), 1921
+this.oce.oce.mati: Marija Pogacnik (Z), 1928
+this.oce.mati: Dana Pogacnik (Z), 1950
+this.mati: Mojca Pogacnik (Z), 1977
+this.mati.oce: Milan Smole (M), 1953
+this.mati.mati: Metka Smole (Z), 1953
+true
+false
+true

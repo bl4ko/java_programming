@@ -1,0 +1,9 @@
+{ana={bojan=2}, bojan={ana=0}}
+2
+{ana={bojan=2}, bojan={ana=0, cvetka=2}, cvetka={bojan=0}}
+3
+{ana={ana=1, bojan=0}, bojan={ana=0, cvetka=2}, cvetka={ana=1, bojan=0}}
+4
+ana -> {ana -> 1, bojan -> 0}
+bojan -> {ana -> 0, cvetka -> 2}
+cvetka -> {ana -> 1, bojan -> 0}

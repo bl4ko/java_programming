@@ -1,0 +1,5 @@
+this: Dejan Pogacnik (M), 1973
+this.oce: Marjan Pogacnik (M), 1946
+this.oce.oce: Jozef Pogacnik (M), 1921
+this.oce.mati: Marija Pogacnik (Z), 1928
+this.mati: Dana Pogacnik (Z), 1950
